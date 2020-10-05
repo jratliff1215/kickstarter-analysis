@@ -8,7 +8,8 @@ A multitude of Kickstarter campaigns in 9 parent categories (Figure 1) inclusive
 
 <img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Parent%20Cateogry%20Outcomes%20United%20States.png" width="600" height="350"> 
 Figure 1 – chart of all Kickstarter campaign parent categories, a total of 4,114 across 9 parent categories. Note the Theater category comprises 33.9% of campaign data provided.
-&nbsp;&nbsp;&nbsp;
+
+
 
 <img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Sub%20Cateogry%20Outcomes%20United%20States.png" width="600" height="350"> 
 Figure 2 – chart of all Kickstarter campaign subcategories, a total of 4,114 across 41 subcategories. Note the Plays category comprises of 25.9% of the total campaigns.
