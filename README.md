@@ -34,7 +34,7 @@ Second, the chances of success in each month may be attributed to factors such a
 
 * What can you conclude about the Outcomes based on Goals?
 
-The initial goal of a campaign was $10,000, a goal which was nearly reached. This is an indication that the campaign failed to meet the goal. The $10,000 to $14,999 range for successful plays is 54.2%, or just over half of the 72 projects in this range achieving their desired goal. In further analysis of the Fever campaign and comparable projects, failed campaigns in the $10,000 to $14,999 were funded in a range of 0% to 37% (Figure 5). Thus, if the Fever campaign was *nearly* funded to the goal, this could be considered a well performing campaign. 
+The initial goal of a campaign was $10,000, a goal which was nearly reached. This is an indication that the campaign failed to meet the goal. The $10,000 to $14,999 range for successful plays is 54.2%, or just over half of the 72 projects in this range achieving their desired goal. In further analysis of the Fever campaign and comparable projects, failed campaigns in the $10,000 to $14,999 were funded in a range of 0% to 37% (Figure 5). Of the failed campaigns, only 6.1% exceeded 30% of the initial goal. Thus, if the Fever campaign was *nearly* funded to the goal, this could be considered a well performing campaign. 
 
 ![Failed](https://github.com/jratliff1215/kickstarter-analysis/blob/main/Failed%20Analysis.PNG)
 
@@ -48,4 +48,6 @@ The location of the campaign initiator may also be a factor in the success. Larg
 
 * What are some other possible tables and/or graphs that we could create?
 
-Additional information could include a regression of the outcomes, providing a formula to use to quickly determine success or failure based on several factors. 
+Additional information could include a regression of the outcomes, providing a formula to use to quickly determine success or failure based on several factors. This could provide Lousie with information to assist in the funding of her musical theater campaign. 
+
+Additional charts may include the time a campaign was acitve and the success rate. This information could provide the basis to determine when a campaign should be concluded and assist in the timing of a project. For the second project Louise is considering, a review of muscial theater campaign duration may provide insight to how long she should allow a campaign to run in order to be successful. 
