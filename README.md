@@ -18,7 +18,7 @@ The initial factor analyzed in the post campaign review was the month in which a
 ### Analysis of Outcomes Based on Goals
 Success in a campaign may be correlated with the initial fundraising goal. When analyzing all US campaigns, successful campaigns had a mean goal of $5,049, with failed campaigns requesting on average more than 2 times that amount. Figure 4 depicts several dollar ranges for initial funding goals versus the outcome of the campaign. Within the Theater Category, campaigns with an initial fundraising goal of less than $1,000 had a 75.8% success rate, followed by campaigns with an initial fundraising goal between $1,000 and $4,999. Louise’s initial goal for Fever was $10,000, which has a 54.2% success rate for the 72 plays that were included in the data set. 
 
-![Goal Outcome]<img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png" width="250" height="250">Figure 4
+<img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png" width="500" height="300">Figure 4
 
 ### Challenges and Difficulties Encountered
 
