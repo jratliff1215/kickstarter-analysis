@@ -19,6 +19,7 @@ The initial factor analyzed in the post campaign review was the month in which a
 Success in a campaign may be correlated with the initial fundraising goal. When analyzing all US campaigns, successful campaigns had a mean goal of $5,049, with failed campaigns requesting on average more than 2 times that amount. Figure 4 depicts several dollar ranges for initial funding goals versus the outcome of the campaign. Within the Theater Category, campaigns with an initial fundraising goal of less than $1,000 had a 75.8% success rate, followed by campaigns with an initial fundraising goal between $1,000 and $4,999. Louise’s initial goal for Fever was $10,000, which has a 54.2% success rate for the 72 plays that were included in the data set. 
 
 ![Goal Outcome](Outcomes_vs_Goals.png) Figure 4
+
 ### Challenges and Difficulties Encountered
 
 Although no challenges were encountered, possible challenges include incomplete data, incorrect data, or inconsistent information. For example, if several successful campaigns did not provide information or data about their campaign, the researcher would not be able to use that data point. This data set appears to be sufficient but without understanding where the information was derived, the conclusion should be reviewed with professional skepticism. 
@@ -35,7 +36,8 @@ Second, the chances of success in each month may be attributed to factors such a
 
 The initial goal of a campaign was $10,000, a goal which was nearly reached. This is an indication that the campaign failed to meet the goal. The $10,000 to $14,999 range for successful plays is 54.2%, or just over half of the 72 projects in this range achieving their desired goal. In further analysis of the Fever campaign and comparable projects, failed campaigns in the $10,000 to $14,999 were funded in a range of 0% to 37% (Figure 5). Thus, if the Fever campaign was *nearly* funded to the goal, this could be considered a well performing campaign. 
 
-![Failed](Failed Analysis.png) Figure 5
+![Failed](Failed%20Analysis.PNG) 
+Figure 5
 
 * What are some limitations of this dataset?
 
