@@ -33,7 +33,7 @@ Second, the chances of success in each month may be attributed to factors such a
 
 * What can you conclude about the Outcomes based on Goals?
 
-The initial goal of a campaign was $10,000, a goal which was nearly reached. This is an indication that the campaign failed to meet the goal. The $10,000 to $14,999 range for successful plays is 54.2%, or just over half of the 72 projects in this range achieving their desired goal. In further analysis of the Fever campaign and comparable projects, failed campaigns in the $10,000 to $14,999 were funded in a range of 0% to 37%. Thus, if the Fever campaign was nearly funded to the goal, this could be considered a well performing campaign. 
+The initial goal of a campaign was $10,000, a goal which was nearly reached. This is an indication that the campaign failed to meet the goal. The $10,000 to $14,999 range for successful plays is 54.2%, or just over half of the 72 projects in this range achieving their desired goal. In further analysis of the Fever campaign and comparable projects, failed campaigns in the $10,000 to $14,999 were funded in a range of 0% to 37%. Thus, if the Fever campaign was *nearly* funded to the goal, this could be considered a well performing campaign. 
 
 * What are some limitations of this dataset?
 
