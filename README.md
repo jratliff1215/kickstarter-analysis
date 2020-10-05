@@ -9,8 +9,10 @@ A multitude of Kickstarter campaigns in 9 parent categories (Figure 1) inclusive
 <img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Parent%20Cateogry%20Outcomes%20United%20States.png" width="600" height="350"> 
 Figure 1 – chart of all Kickstarter campaign parent categories, a total of 4,114 across 9 parent categories. Note the Theater category comprises 33.9% of campaign data provided. 
 
-<img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Sub%20Cateogry%20Outcomes%20United%20States.png" width="600" height="350">
+
+<img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Sub%20Cateogry%20Outcomes%20United%20States.png" width="600" height="350"> 
 Figure 2 – chart of all Kickstarter campaign subcategories, a total of 4,114 across 41 subcategories. Note the Plays category comprises of 25.9% of the total campaigns. 
+
 
 ### Analysis of Outcomes Based on Launch Date
 The initial factor analyzed in the post campaign review was the month in which a campaign was launched. Figure 3 illustrates all theater campaign outcomes based on launch month. The most successful month to launch a theater campaign is either May or June. May launched a total of 166 theater campaigns, with 111 successful campaigns, or 66.9% success rate. June launched a total of 153 campaigns, with 100 successful campaigns, or 65.7% success rate. In contrast, the months of December (37 successful) and October (65 successful) produce the lowest success rates, with 49.3% and 56.5%, respectively, of launch campaigns succeeding. 
@@ -18,11 +20,13 @@ The initial factor analyzed in the post campaign review was the month in which a
 <img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Theater_Outcome_vs_Launch.png" width="600" height="350"> 
 Figure 3
 
+
 ### Analysis of Outcomes Based on Goals
 Success in a campaign may be correlated with the initial fundraising goal. When analyzing all US campaigns, successful campaigns had a mean goal of $5,049, with failed campaigns requesting on average more than 2 times that amount. Figure 4 depicts several dollar ranges for initial funding goals versus the outcome of the campaign. Within the Theater Category, campaigns with an initial fundraising goal of less than $1,000 had a 75.8% success rate, followed by campaigns with an initial fundraising goal between $1,000 and $4,999. Louise’s initial goal for Fever was $10,000, which has a 54.2% success rate for the 72 plays that were included in the data set. 
 
 <img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png" width="600" height="350">
 Figure 4
+
 
 ### Challenges and Difficulties Encountered
 
@@ -43,6 +47,7 @@ The initial goal of a campaign was $10,000, a goal which was nearly reached. Thi
 ![Failed](https://github.com/jratliff1215/kickstarter-analysis/blob/main/Failed%20Analysis.PNG)
 
 Figure 5
+
 
 * What are some limitations of this dataset?
 
