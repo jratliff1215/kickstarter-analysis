@@ -39,7 +39,7 @@ The initial goal of a campaign was $10,000, a goal which was nearly reached. Thi
 ![Failed](https://github.com/jratliff1215/kickstarter-analysis/blob/main/Failed%20Analysis.PNG)
 
 
-<img src="Failed%20Analsis.PNG" width="250" height="250">
+<img src="https://github.com/jratliff1215/kickstarter-analysis/blob/main/Failed%20Analysis.PNG" width="250" height="250">
 
 Figure 5
 
