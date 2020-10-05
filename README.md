@@ -1,2 +1,7 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Theater Kickstarter Data
+## Overview of Project
+Our client, Louise, recently concluded a Kickstarter campaign for the play Fever, which nearly achieved the initial fundraising goal in a short time. The initial campaign goal was $10,000. The client has requested additional information to determine how the Fever campaign fared in relation to other Kickstarter campaigns for plays, specifically the outcome of the project based on launch date and the outcome of the project based on funding goals. The following documentation provides the results and conclusion of the project.
+### Purpose
+An analysis of comparable campaigns is necessary to ensure the Client’s campaign was as successful as other plays or if modifications could be made to increase the chances of success. The visual representation of our findings provides a simple way to determine trends within the information. Factors such as time of the campaign launch and total funding goal (in dollars) can impact the outcome. The following charts and graphs encompass relevant results to the Client’s Kickstarter campaign. 
+## Analysis and Challenges
+A multitude of Kickstarter campaigns in 9 parent categories (Figure 1) inclusive of a total of 41 subcategories (Figure 2) were utilized in the initial data set. The Theater Category, which consisted of 1,393 individual Kickstarter, was further divided into 3 subcategories (plays, musicals, spaces). The Plays Subcategory included 1,066 data points. 
