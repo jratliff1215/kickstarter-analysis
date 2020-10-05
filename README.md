@@ -6,7 +6,7 @@ An analysis of comparable campaigns is necessary to ensure the Client’s campai
 ## Analysis and Challenges
 A multitude of Kickstarter campaigns in 9 parent categories (Figure 1) inclusive of a total of 41 subcategories (Figure 2) were utilized in the initial data set. The **Theater Category**, which consisted of 1,393 individual Kickstarter, was further divided into 3 subcategories (plays, musicals, spaces). The **Plays Subcategory** included 1,066 data points.
 
-![Parent Category Outcomes](Parent%20Cateogry%20Outcomes%20United%20States.png =250x250)Figure 1 – chart of all Kickstarter campaign parent categories, a total of 4,114 across 9 parent categories. Note the Theater category comprises 33.9% of campaign data provided. 
+![Parent Category Outcomes](Parent%20Cateogry%20Outcomes%20United%20States.png)Figure 1 – chart of all Kickstarter campaign parent categories, a total of 4,114 across 9 parent categories. Note the Theater category comprises 33.9% of campaign data provided. 
 
 ![Subcateogy Outcomes](Sub%20Cateogry%20Outcomes%20United%20States.png)Figure 2 – chart of all Kickstarter campaign subcategories, a total of 4,114 across 41 subcategories. Note the Plays category comprises of 25.9% of the total campaigns. 
 
